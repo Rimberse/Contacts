@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<contacts>
+<contact>
+	<first_name>[Edited] First Name</first_name>
+	<last_name>[Edited] Last Name</last_name>
+	<phone_number>[Edited] Phone Number</phone_number>
+	<notes>[Edited] Notes</notes>
+</contact>
+<contact>
+	<first_name>Donald</first_name>
+	<last_name>Trump</last_name>
+	<phone_number>(870) 427-2819</phone_number>
+	<notes>A threat to society</notes>
+</contact>
+<contact>
+	<first_name>Wile E.</first_name>
+	<last_name>Coyote</last_name>
+	<phone_number>123-555-9999</phone_number>
+	<notes>I thought I saw a Road Runner!</notes>
+</contact>
+<contact>
+	<first_name>Road</first_name>
+	<last_name>Runner</last_name>
+	<phone_number>123-555-2222</phone_number>
+	<notes>Meep meep!</notes>
+</contact>
+<contact>
+	<first_name>N/A</first_name>
+	<last_name>N/A</last_name>
+	<phone_number>Phone Number</phone_number>
+	<notes>N/A</notes>
+</contact>
+<contact>
+	<first_name>First Name</first_name>
+	<last_name>N/A</last_name>
+	<phone_number>N/A</phone_number>
+	<notes>N/A</notes>
+</contact>
+<contact>
+	<first_name>N/A</first_name>
+	<last_name>Last Name</last_name>
+	<phone_number>N/A</phone_number>
+	<notes>N/A</notes>
+</contact>
+<contact>
+	<first_name>N/A</first_name>
+	<last_name>N/A</last_name>
+	<phone_number>N/A</phone_number>
+	<notes>N/A</notes>
+</contact>
+<contact>
+	<first_name>N/A</first_name>
+	<last_name>N/A</last_name>
+	<phone_number>N/A</phone_number>
+	<notes>Notes</notes>
+</contact>
+<contact>
+	<first_name>Doland</first_name>
+	<last_name>Duck</last_name>
+	<phone_number>123-555-1234</phone_number>
+	<notes>Quack!</notes>
+</contact>
+<contact>
+	<first_name>Johny</first_name>
+	<last_name>Silverhand</last_name>
+	<phone_number>+33 02 06 36 94 86</phone_number>
+	<notes>Some dummy text</notes>
+</contact>
+<contact>
+	<first_name>Peter</first_name>
+	<last_name>Parker</last_name>
+	<phone_number>Unkown</phone_number>
+	<notes>Spider - Man.</notes>
+</contact>
+<contact>
+	<first_name>Test</first_name>
+	<last_name>Test</last_name>
+	<phone_number>test</phone_number>
+	<notes>test</notes>
+</contact>
+<contact>
+	<first_name>Eddie</first_name>
+	<last_name>Brock</last_name>
+	<phone_number>123-456-789</phone_number>
+	<notes>Venom.</notes>
+</contact>
+<contact>
+	<first_name>Bugs</first_name>
+	<last_name>Bunny</last_name>
+	<phone_number>123-555-4567</phone_number>
+	<notes>What's up Doc?</notes>
+</contact>
+</contacts>
